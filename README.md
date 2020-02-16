@@ -1,4 +1,5 @@
 # hello-world
+About me
 Junior student in University of Iowa
 Major: B.B.A., Business Analytics and Information Systems
 Tools: R, Python, SAS, SQL, Tableau, Excel
