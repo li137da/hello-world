@@ -1,3 +1,5 @@
+# Name and home country
+Da Li, China
 # School and major
 Junior student in University of Iowa
 B.B.A., Business Analytics and Information Systems
